@@ -1,4 +1,4 @@
-#   soving Travelling salesman(TSP) using ant colony
+#   solving Travelling salesman(TSP) using ant colony
 #   by mohammad asadolahi
 #   mohmad.asa1994@gmail.com
 import math
