@@ -1,6 +1,6 @@
 #   solving Travelling salesman(TSP) using ant colony
 #   by mohammad asadolahi
-#   mohmad.asa1994@gmail.com
+#   Mohammad.E.Asadolahi@gmail.com
 import math
 import random
 import matplotlib.pyplot as plt
