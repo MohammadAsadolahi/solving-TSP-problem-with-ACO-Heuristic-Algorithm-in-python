@@ -9,5 +9,24 @@ using heuristic algorithm to solve high dimensional tsp problem
   
 # a random solution:
 ![random solution](https://github.com/mohammadAsadolahi/Solving-TSP-with-ACO-python/blob/main/random%20solution%20for%2020%20cities.png)
+# route found by algorithm at iteration of 16(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 16 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%2016%20iterations%20by%20colony.png)  
+# route found by algorithm at iteration of 32(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 32 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%2032%20iterations%20by%20colony.png)  
+# route found by algorithm at iteration of 48(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 48 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%2048%20iterations%20by%20colony.png)  
+# route found by algorithm at iteration of 64(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 64 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%2064%20iterations%20by%20colony.png)  
+# route found by algorithm at iteration of 80(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 80 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%2080%20iterations%20by%20colony.png)  
+# route found by algorithm at iteration of 96(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 96 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%2096%20iterations%20by%20colony.png)  
+# route found by algorithm at iteration of 112(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 112 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%20112%20iterations%20by%20colony.png)  
+# route found by algorithm at iteration of 128(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 128 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%20128%20iterations%20by%20colony.png)  
+# route found by algorithm at iteration of 144(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
+![iteration 144 solution]https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%20144%20iterations%20by%20colony.png)  
+
 # route found by algorithm at iteration of 160(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
 ![iteration 160 solution](https://github.com/mohammadAsadolahi/Solving-TSP-with-ACO-python/blob/main/Best%20solution%20found%20at%20160%20iterations%20by%20colony.png) 
